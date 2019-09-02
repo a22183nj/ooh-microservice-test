@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM node
 RUN mkdir -p /microservice-test
 WORKDIR /microservice-test
 COPY ./ /microservice-test
