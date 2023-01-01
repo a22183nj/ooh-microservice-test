@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "body-parser": "^1.16.1",
-    "config": "^2.0.1",
+    "config": "^3.3.8",
     "cors": "^2.8.1",
     "crypto": "^1.0.1",
     "cucumber": "^5.0.2",
